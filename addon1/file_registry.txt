@@ -1,2 +1,3 @@
 files:
 file_001.txt
+file_002.txt # author: second user
